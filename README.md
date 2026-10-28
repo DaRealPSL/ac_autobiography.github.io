@@ -75,7 +75,7 @@ My mum has a different perspective. She is more interested in the art you can fi
 I have to admit that I didn't understand much of what I saw inside. There were large sheets of metal arranged in ways I couldn't really make sense of, and rugs hanging from the ceiling. To best describe it, imagine if Aladdin had a fever dream.
 
 <figure class="right">
-    <img src="Guggenheim_inside.jpg" alt="Modern art inside the Guggenheim">
+    <img src="Guggenheim_inside.JPG" alt="Modern art inside the Guggenheim">
     <figcaption>Some of the exhibits inside the Guggenheim, which looked more like a fever dream than art to me.</figcaption>
 </figure>
 
