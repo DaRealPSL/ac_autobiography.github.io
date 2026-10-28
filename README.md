@@ -68,7 +68,7 @@ In my family, art can be defined as panoramic views, good wine and a cool summer
 My mum has a different perspective. She is more interested in the art you can find in museums. Last summer, we visited the Guggenheim Museum in Bilbao, Spain.
 
 <figure class="right">
-    <img src="Guggenheim.jpg" alt="Entrance of the Guggenheim museum">
+    <img src="Guggenheim.JPG" alt="Entrance of the Guggenheim museum">
     <figcaption>The Guggenheim Museum in Bilbao, where modern art left me with more questions than answers.</figcaption>
 </figure>
 
